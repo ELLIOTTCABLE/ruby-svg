@@ -1,0 +1,10 @@
+ruby-svg
+========
+
+This is the beginning of a library for creating SVG documents with Ruby.
+
+Something I started on when I was bored, and didn't get very far before I was bored again.
+
+Feel free to fork and continue work, please send me a pullrequest if you get something worthwhile going.
+
+~ elliottcable.name
